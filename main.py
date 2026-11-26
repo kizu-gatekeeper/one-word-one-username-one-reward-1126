@@ -1,6 +1,7 @@
 """Entry for make.fun: One Word, One Username, One Reward.
 
-The entry is the entrant's own make.fun username and nothing else.
+The entry is the entrant's own make.fun username and nothing else:
+one word, no pitch, no decoration.
 """
 import os
 
